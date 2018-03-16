@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchemaParcels>
+	<eDocument Version="01" GUID="8572eb93-0a9f-4c00-90be-9f4c392503d9"/>
+	<FormingMethod FormingMethod="2"/>
+	<Document>
+		<Name>Приказ Государственного комитета Псковской области по имущественным отношениям</Name>
+		<Number>2968</Number>
+		<Date>2017-06-30</Date>
+		<IssueOrgans>
+			<IssueOrgan>Государственный Комитет Псковской области по имущественным отношениям</IssueOrgan>
+		</IssueOrgans>
+	</Document>
+	<NewParcels>
+		<NewParcel>
+			<CadastralBlock>60:18:0190901</CadastralBlock>
+			<Area>
+				<Area>2225</Area>
+				<Unit>055</Unit>
+			</Area>
+			<Entity_Spatial Ent_Sys="ID32BC4072-E445-41EF-9B3C-943FFBEFEF98">
+				<Spatial_Element>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487211.82" Y="1268034.35" Num_Geopoint="1"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487210.31" Y="1268077.96" Num_Geopoint="2"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487196.69" Y="1268077.24" Num_Geopoint="1"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487156.29" Y="1268075.26" Num_Geopoint="2"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487155.31" Y="1268074.15" Num_Geopoint="3"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487156.96" Y="1268056.18" Num_Geopoint="4"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487157.20" Y="1268049.80" Num_Geopoint="5"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487157.87" Y="1268039.09" Num_Geopoint="6"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487160.70" Y="1268038.95" Num_Geopoint="7"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487181.88" Y="1268040.68" Num_Geopoint="8"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487182.91" Y="1268029.00" Num_Geopoint="9"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487191.25" Y="1268030.27" Num_Geopoint="10"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487194.35" Y="1268032.68" Num_Geopoint="11"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487198.17" Y="1268033.07" Num_Geopoint="12"/>
+					</Spelement_Unit>
+					<Spelement_Unit Type_Unit="Точка">
+						<NewOrdinate X="487211.82" Y="1268034.35" Num_Geopoint="1"/>
+					</Spelement_Unit>
+				</Spatial_Element>
+			</Entity_Spatial>
+			<Note>Псковская область, Псковский район, СП "Ядровская волость", д. Волженец</Note>
+			<Utilization ByDoc="для садоводства"/>
+			<Category Category="003002000000"/>
+		</NewParcel>
+	</NewParcels>
+	<Coord_Systems>
+		<Coord_System Name="Система координат кадастрового округа 1" Cs_Id="ID32BC4072-E445-41EF-9B3C-943FFBEFEF98"/>
+	</Coord_Systems>
+	<ParcelSchema_In_Block>
+		<AppliedFile Name="Images\Приказ Псковский район, д. Волженец (2968 от 30.06.2017) (Иванова И.П.).pdf"/>
+		<AppliedFile Name="Images\Схема Псковский район, д. Волженец (2968 от 30.06.2017) (Иванова И.П.).pdf"/>
+	</ParcelSchema_In_Block>
+</SchemaParcels>
